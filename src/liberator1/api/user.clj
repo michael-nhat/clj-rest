@@ -4,6 +4,10 @@
             [liberator1.service.security :refer [authenticated? admin? current-user]]
             [liberator1.service.json :refer [clj->json]]))
 
+(declare user)
+(declare user-by-username)
+(declare request)
+
 (defresource user
   [request]
   :allowed-methods [:get :put]
