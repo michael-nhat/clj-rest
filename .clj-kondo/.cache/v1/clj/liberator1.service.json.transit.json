@@ -1,0 +1,1 @@
+["^ ","~$clj->json",["^ ","~:row",4,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$liberator1.service.json","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret","~:nilable/string","~:arglist-str","[data]"]]],"~:filename","/media/72g/draft-not-text/web-advantaged/clojure/liberator1/src/liberator1/service/json.clj"]
