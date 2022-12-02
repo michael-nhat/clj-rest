@@ -3,4 +3,5 @@
     - fix code highlight
 
 #### todo
-    - run 
+    - create custom test api
+    - add hug sql and implement db migrations
